@@ -1,2 +1,1 @@
-# soccer-analytics
-SQL + Python project based on Kaggle Soccer Dataset
+"# Soccer Analytics Project" 
