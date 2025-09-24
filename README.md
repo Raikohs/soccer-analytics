@@ -1,6 +1,7 @@
 # Soccer Analytics
 
 **Soccer Analytics** is a project for analyzing and visualizing player and team statistics based on football data. The project allows you to create charts, metrics, and evaluate player performance.
+<img width="806" height="788" alt="image" src="https://github.com/user-attachments/assets/461ab3a8-9755-4936-950e-415bee17d251" />
 
 ---
 
